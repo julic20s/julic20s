@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @julic20s
-- 👀 I’m interested in programming
+- 👀 I’m interested in __programming__
 - 🌱 I’m currently learning algorithm and software architecture
 - 💞️ I’m looking to explore the beautiful pragramming world with you
-- ✨ @julic20s on 🟨🟦🟥 Codeforces
+- ✨ [@julic20s](https://codeforces.com/profile/julic20s) on __`🟨🟦🟥CODEFORCES`__
 
 <!---
 julic20s/julic20s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
